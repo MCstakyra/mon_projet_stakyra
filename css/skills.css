@@ -150,6 +150,14 @@ body[data-theme="dark"] .skill-category {
 .sql-icon { color: #F29111; }
 .git-icon { color: #F05032; }
 .github-icon { color: #181717; }
+.oop-icon { color: #2980b9; }     
+.linux-icon { color: #f1c40f; }    
+.agile-icon { color: #27ae60; }    
+.ai-notions-icon { color: #e74c3c; }
+.java-icon { color: #f89820; }
+.m365-icon { color: #0078d4; }
+.shell-icon { color: #2ecc71; }
+.C-icon { color: #00599C; }
 body[data-theme="dark"] .github-icon { filter: invert(1); }
 .vscode-icon { color: #007ACC; }
 .math-icon { color: #FF9800; }
