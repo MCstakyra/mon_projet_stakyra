@@ -42,8 +42,9 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!subtitle) return;
 
     const texts = [
+      "Data analyst",
       "Développeuse Full-Stack",
-      "Spécialiste React & Node.js",
+      "Spécialiste React & Python",
       "Passionnée d'UI/UX",
       "Créatrice de solutions digitales"
     ];
