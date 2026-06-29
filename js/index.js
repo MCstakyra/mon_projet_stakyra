@@ -45,7 +45,8 @@ document.addEventListener('DOMContentLoaded', () => {
       "Data analyst",
       "Développeuse Full-Stack",
       "Passionnée d'UI/UX",
-      "Créatrice de solutions digitales"
+      "Créatrice de solutions digitales intelligentes",
+      "Exploratrice de l'IA et du Machine Learning"
     ];
 
     let currentIndex = 0;
