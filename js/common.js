@@ -46,10 +46,11 @@ const PortfolioConfig = {
 
   typing: {
     texts: [
+      "Data analyst",
       "Développeuse Full-Stack",
-      "Spécialiste React & Node.js",
       "Passionnée d'UI/UX",
-      "Créatrice de solutions digitales"
+      "Créatrice de solutions digitales intelligentes",
+      "Exploratrice de l'IA et du Machine Learning"
     ],
     currentIndex: 0,
     charIndex: 0,
