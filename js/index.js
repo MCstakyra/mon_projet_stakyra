@@ -44,7 +44,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const texts = [
       "Data analyst",
       "Développeuse Full-Stack",
-      "Spécialiste React & Python",
       "Passionnée d'UI/UX",
       "Créatrice de solutions digitales"
     ];
