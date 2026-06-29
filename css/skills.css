@@ -164,6 +164,16 @@ body[data-theme="dark"] .github-icon { filter: invert(1); }
 .math-icon { color: #FF9800; }
 .problem-solving-icon { color: #2196F3; }
 .analysis-icon { color: #8BC34A; }
+.react-icon { color: #61DAFB; }
+.tailwind-icon { color: #06B6D4; }
+.ui-ux-icon { color: #FF007F; }
+.powerbi-icon { color: #F2C811; }
+.excel-icon { color: #217346; }
+.docker-icon { color: #2496ED; }
+.uml-icon { color: #EA80FC; }
+.csharp-icon { color: #239120; }
+.ml-icon { color: #FF6F00; }
+.nlp-icon { color: #00E676; }
 
 
 
